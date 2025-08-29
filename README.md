@@ -18,3 +18,13 @@ git clone ...
 cd ...
 npm install
 ```
+Configuration
+
+```bash
+API_KEY=your_api_key_here
+```
+
+Running
+```bash
+npm start
+```
